@@ -1,0 +1,14 @@
+{
+  "Migration_Info" : ["oltp_user|channel|staging_user|channel",
+                      "oltp_user|customer|staging_user|customer",
+                      "oltp_user|channelcategory|staging_user|channelcategory",
+                      "oltp_user|channeltarget|staging_user|channeltarget",
+                      "oltp_user|product|staging_user|product",
+                      "oltp_user|productcategory|staging_user|productcategory",
+                      "oltp_user|producttarget|staging_user|producttarget",
+                      "oltp_user|producttype|staging_user|producttype",
+                      "oltp_user|reseller|staging_user|reseller",
+                      "oltp_user|salesdetail|staging_user|salesdetail",
+                      "oltp_user|salesheader|staging_user|salesheader",
+                      "oltp_user|store|staging_user|store"]
+}
